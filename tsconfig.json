@@ -5,7 +5,7 @@
       "dom.iterable",
       "esnext"
     ],
-    "types": ["reflect-metadata", "jest"],
+    "types": ["jest"],
     "typeRoots": ["./types", "./node_modules/@types"],
     "allowJs": true,
     "skipLibCheck": true,
