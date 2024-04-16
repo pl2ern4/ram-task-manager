@@ -29,6 +29,7 @@
     "react-quill": "^2.0.0"
   },
   "devDependencies": {
+    "@types/reflect-metadata": "^0.1.0",
     "@chromatic-com/storybook": "^1.2.26",
     "@storybook/addon-essentials": "^8.0.5",
     "@storybook/addon-interactions": "^8.0.5",
