@@ -24,7 +24,7 @@ const BoardWrapper = styled('div')`
 `;
 
 export default function BoardLayout() {
-  const [ticketOrder, setTicketOrder] = useState(TICKET_ORDERBY.modifiedDate);
+  const [ticketOrder, setTicketOrder] = useState('modifiedDate');
   const {openCreateTicket, openUpdateTicketDialog, openUpdateTicket, setOpenCreateTicket, tickets, updateTicket} = useGlobalContext();
   const TaskColumn = TICKET_STATUS;
 

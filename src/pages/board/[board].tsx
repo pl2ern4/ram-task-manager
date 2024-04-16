@@ -10,6 +10,9 @@ export default function Board() {
     if(taskBoard && router.query.board!==taskBoard){
       router.replace(`/board/${taskBoard}`);
     }
+    if(!taskBoard){
+      router.replace(`/createboard`);
+    }
   },[])
   return (
       <Grid container spacing={2}>
