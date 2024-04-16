@@ -1,0 +1,319 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Should Match Snapshot, when \`assigneeName\` not passed 1`] = `
+<div>
+  <div
+    class="drag-item"
+    draggable="true"
+    id="1713262151975"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1v5z4dq-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+      >
+        <h5
+          class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1ffmuz7-MuiTypography-root"
+        >
+          test
+        </h5>
+        <div
+          class="css-ccww6n"
+        >
+          <div
+            class="css-1ydljje"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-colorSuccess MuiSvgIcon-fontSizeMedium css-4b67si-MuiSvgIcon-root"
+              data-testid="AddToQueueIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M21 3H3c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h5v2h8v-2h5c1.1 0 1.99-.9 1.99-2L23 5c0-1.11-.9-2-2-2m0 14H3V5h18zm-5-7v2h-3v3h-2v-3H8v-2h3V7h2v3z"
+              />
+            </svg>
+          </div>
+          <div
+            class="css-fpy0dx"
+          >
+            <div>
+              1
+            </div>
+          </div>
+          <div
+            class="css-3pg3o7"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vwqafx-MuiSvgIcon-root"
+              data-testid="BookmarkIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2"
+              />
+            </svg>
+          </div>
+          <div
+            class="css-1u0783d"
+          >
+            <div
+              class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-yzsj1s-MuiAvatar-root"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-colorAction MuiSvgIcon-fontSizeLarge css-p4wudk-MuiSvgIcon-root"
+                data-testid="AccountCircleRoundedIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2m0 4c1.93 0 3.5 1.57 3.5 3.5S13.93 13 12 13s-3.5-1.57-3.5-3.5S10.07 6 12 6m0 14c-2.03 0-4.43-.82-6.14-2.88C7.55 15.8 9.68 15 12 15s4.45.8 6.14 2.12C16.43 19.18 14.03 20 12 20"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Card Should Match Snapshot, when \`isBookMarked\` passed \`false\` 1`] = `
+<div>
+  <div
+    class="drag-item"
+    draggable="true"
+    id="1713262151975"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1v5z4dq-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+      >
+        <h5
+          class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1ffmuz7-MuiTypography-root"
+        >
+          test
+        </h5>
+        <div
+          class="css-ccww6n"
+        >
+          <div
+            class="css-1ydljje"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-colorSuccess MuiSvgIcon-fontSizeMedium css-4b67si-MuiSvgIcon-root"
+              data-testid="AddToQueueIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M21 3H3c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h5v2h8v-2h5c1.1 0 1.99-.9 1.99-2L23 5c0-1.11-.9-2-2-2m0 14H3V5h18zm-5-7v2h-3v3h-2v-3H8v-2h3V7h2v3z"
+              />
+            </svg>
+          </div>
+          <div
+            class="css-fpy0dx"
+          >
+            <div>
+              1
+            </div>
+          </div>
+          <div
+            class="css-3pg3o7"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-s86xg-MuiSvgIcon-root"
+              data-testid="BookmarkIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2"
+              />
+            </svg>
+          </div>
+          <div
+            class="css-1u0783d"
+          >
+            <div
+              class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-yzsj1s-MuiAvatar-root"
+            >
+              <div
+                class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-1em7iga-MuiAvatar-root"
+              >
+                TT
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Card Should Match Snapshot, when \`storyPoint\` not passed 1`] = `
+<div>
+  <div
+    class="drag-item"
+    draggable="true"
+    id="1713262151975"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1v5z4dq-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+      >
+        <h5
+          class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1ffmuz7-MuiTypography-root"
+        >
+          test
+        </h5>
+        <div
+          class="css-ccww6n"
+        >
+          <div
+            class="css-1ydljje"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-colorSuccess MuiSvgIcon-fontSizeMedium css-4b67si-MuiSvgIcon-root"
+              data-testid="AddToQueueIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M21 3H3c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h5v2h8v-2h5c1.1 0 1.99-.9 1.99-2L23 5c0-1.11-.9-2-2-2m0 14H3V5h18zm-5-7v2h-3v3h-2v-3H8v-2h3V7h2v3z"
+              />
+            </svg>
+          </div>
+          <div
+            class="css-fpy0dx"
+          >
+            <div>
+              -1
+            </div>
+          </div>
+          <div
+            class="css-3pg3o7"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vwqafx-MuiSvgIcon-root"
+              data-testid="BookmarkIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2"
+              />
+            </svg>
+          </div>
+          <div
+            class="css-1u0783d"
+          >
+            <div
+              class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-yzsj1s-MuiAvatar-root"
+            >
+              <div
+                class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-1em7iga-MuiAvatar-root"
+              >
+                TT
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Card Should Match Snapshot, when \`storyPoint\`, \`isBookMarked\` & \`assigneeName\` passed 1`] = `
+<div>
+  <div
+    class="drag-item"
+    draggable="true"
+    id="1713262151975"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-1v5z4dq-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+      >
+        <h5
+          class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-1ffmuz7-MuiTypography-root"
+        >
+          test
+        </h5>
+        <div
+          class="css-ccww6n"
+        >
+          <div
+            class="css-1ydljje"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-colorSuccess MuiSvgIcon-fontSizeMedium css-4b67si-MuiSvgIcon-root"
+              data-testid="AddToQueueIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M21 3H3c-1.11 0-2 .89-2 2v12c0 1.1.89 2 2 2h5v2h8v-2h5c1.1 0 1.99-.9 1.99-2L23 5c0-1.11-.9-2-2-2m0 14H3V5h18zm-5-7v2h-3v3h-2v-3H8v-2h3V7h2v3z"
+              />
+            </svg>
+          </div>
+          <div
+            class="css-fpy0dx"
+          >
+            <div>
+              1
+            </div>
+          </div>
+          <div
+            class="css-3pg3o7"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vwqafx-MuiSvgIcon-root"
+              data-testid="BookmarkIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2"
+              />
+            </svg>
+          </div>
+          <div
+            class="css-1u0783d"
+          >
+            <div
+              class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-yzsj1s-MuiAvatar-root"
+            >
+              <div
+                class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-1em7iga-MuiAvatar-root"
+              >
+                TT
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

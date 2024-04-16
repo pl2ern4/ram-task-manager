@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dialog should Match Snapshot 1`] = `
+<div
+  aria-hidden="true"
+/>
+`;
+
+exports[`Dialog should Match Snapshot, when dialog state \`openDialog\` set to false 1`] = `<div />`;
+
+exports[`Dialog should Match Snapshot, when title state set \`title\` set to null 1`] = `
+<div
+  aria-hidden="true"
+/>
+`;

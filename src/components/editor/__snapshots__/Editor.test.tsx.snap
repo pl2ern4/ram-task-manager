@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Editor should Match Snapshot 1`] = `
+<div>
+  <div>
+    <label>
+      <h3>
+        Test
+         :
+      </h3>
+    </label>
+    <div
+      class="clickable-div css-1v42c4z"
+    >
+      test value
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Editor should Match Snapshot, when \`label\` passed blank 1`] = `
+<div>
+  <div>
+    <div
+      class="clickable-div css-gs0ilt"
+    />
+  </div>
+</div>
+`;
+
+exports[`Editor should Match Snapshot, when \`shouldAlwaysEditable\` passed true 1`] = `
+<div>
+  <div>
+    <div />
+  </div>
+</div>
+`;
+
+exports[`Editor should Match Snapshot, when \`shouldDisplayBorderOnReadOnly\` passed false 1`] = `
+<div>
+  <div>
+    <label>
+      <h3>
+        Test
+         :
+      </h3>
+    </label>
+    <div
+      class="clickable-div css-gs0ilt"
+    />
+  </div>
+</div>
+`;

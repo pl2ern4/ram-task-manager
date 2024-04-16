@@ -1,0 +1,283 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectInput should Match Snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-oy7y5j-MuiPaper-root"
+  >
+    <div
+      class="css-3pg3o7"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-s86xg-MuiSvgIcon-root"
+        data-testid="BookmarkIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2"
+        />
+      </svg>
+    </div>
+    <div
+      class="css-1dw64bn"
+    >
+      <label
+        class="css-14pxzl7"
+      >
+        status
+      </label>
+      <button
+        aria-controls=":r0:"
+        aria-expanded="false"
+        class="base-Select-root css-12xgkxt"
+        role="combobox"
+        type="button"
+      >
+        inProgress
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="UnfoldMoreRoundedIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+          />
+        </svg>
+      </button>
+      <input
+        aria-hidden="true"
+        style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+        tabindex="-1"
+        value="inProgress"
+      />
+    </div>
+    <div
+      class="css-1dw64bn"
+    >
+      <label
+        class="css-14pxzl7"
+      >
+        Asignee
+      </label>
+      <button
+        aria-controls=":r1:"
+        aria-expanded="false"
+        class="base-Select-root css-12xgkxt"
+        role="combobox"
+        type="button"
+      >
+        Not Assigned
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="UnfoldMoreRoundedIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+          />
+        </svg>
+      </button>
+      <input
+        aria-hidden="true"
+        style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+        tabindex="-1"
+        value="Not Assigned"
+      />
+    </div>
+    <div
+      class="css-1dw64bn"
+    >
+      <label
+        class="css-14pxzl7"
+      >
+        Task Type
+      </label>
+      <button
+        aria-controls=":r2:"
+        aria-expanded="false"
+        class="base-Select-root css-12xgkxt"
+        role="combobox"
+        type="button"
+      >
+        Issue
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="UnfoldMoreRoundedIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+          />
+        </svg>
+      </button>
+      <input
+        aria-hidden="true"
+        style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+        tabindex="-1"
+        value="Issue"
+      />
+    </div>
+    <div
+      class="css-psohlv"
+    >
+      <label
+        class="css-eie7o"
+      >
+        Story Points
+      </label>
+      <label
+        class="css-17045cg"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SelectInput should Match Snapshot, when asignee, taskType not passed 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-oy7y5j-MuiPaper-root"
+  >
+    <div
+      class="css-3pg3o7"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-s86xg-MuiSvgIcon-root"
+        data-testid="BookmarkIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2"
+        />
+      </svg>
+    </div>
+    <div
+      class="css-1dw64bn"
+    >
+      <label
+        class="css-14pxzl7"
+      >
+        status
+      </label>
+      <button
+        aria-controls=":re:"
+        aria-expanded="false"
+        class="base-Select-root css-12xgkxt"
+        role="combobox"
+        type="button"
+      >
+        Todo
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="UnfoldMoreRoundedIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+          />
+        </svg>
+      </button>
+      <input
+        aria-hidden="true"
+        style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+        tabindex="-1"
+        value="Todo"
+      />
+    </div>
+    <div
+      class="css-1dw64bn"
+    >
+      <label
+        class="css-14pxzl7"
+      >
+        Asignee
+      </label>
+      <button
+        aria-controls=":rf:"
+        aria-expanded="false"
+        class="base-Select-root css-12xgkxt"
+        role="combobox"
+        type="button"
+      >
+        Not Assigned
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="UnfoldMoreRoundedIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+          />
+        </svg>
+      </button>
+      <input
+        aria-hidden="true"
+        style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+        tabindex="-1"
+        value="Not Assigned"
+      />
+    </div>
+    <div
+      class="css-1dw64bn"
+    >
+      <label
+        class="css-14pxzl7"
+      >
+        Task Type
+      </label>
+      <button
+        aria-controls=":rg:"
+        aria-expanded="false"
+        class="base-Select-root css-12xgkxt"
+        role="combobox"
+        type="button"
+      >
+        Not Assigned
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="UnfoldMoreRoundedIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+          />
+        </svg>
+      </button>
+      <input
+        aria-hidden="true"
+        style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+        tabindex="-1"
+        value="Not Assigned"
+      />
+    </div>
+    <div
+      class="css-psohlv"
+    >
+      <label
+        class="css-eie7o"
+      >
+        Story Points
+      </label>
+      <label
+        class="css-17045cg"
+      />
+    </div>
+  </div>
+</div>
+`;

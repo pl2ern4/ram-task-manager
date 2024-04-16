@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EditableInput should Match Snapshot 1`] = `
+<div>
+  <div
+    class="css-psohlv"
+  >
+    <label
+      class="css-eie7o"
+    >
+      Test
+    </label>
+    <label
+      class="css-17045cg"
+    >
+      test
+    </label>
+  </div>
+</div>
+`;

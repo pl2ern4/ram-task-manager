@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar renders a heading 1`] = `
+<div>
+  <div
+    class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-yzsj1s-MuiAvatar-root"
+  >
+    <div
+      class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-11083xw-MuiAvatar-root"
+    >
+      TH
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Avatar renders without Name 1`] = `
+<div>
+  <div
+    class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-yzsj1s-MuiAvatar-root"
+  >
+    <div
+      class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-11083xw-MuiAvatar-root"
+    >
+      TH
+    </div>
+  </div>
+</div>
+`;

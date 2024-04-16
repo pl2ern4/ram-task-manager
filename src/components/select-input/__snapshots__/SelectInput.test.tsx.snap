@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectInput should Match Snapshot 1`] = `
+<div>
+  <div
+    class="css-1dw64bn"
+  >
+    <label
+      class="css-14pxzl7"
+    >
+      test
+    </label>
+    <button
+      aria-controls=":r0:"
+      aria-expanded="false"
+      class="base-Select-root css-12xgkxt"
+      role="combobox"
+      type="button"
+    >
+      Issue
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="UnfoldMoreRoundedIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+        />
+      </svg>
+    </button>
+    <input
+      aria-hidden="true"
+      style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+      tabindex="-1"
+      value="Issue"
+    />
+  </div>
+</div>
+`;
+
+exports[`SelectInput should Match Snapshot, when \`defaultOption\` not passed 1`] = `
+<div>
+  <div
+    class="css-1dw64bn"
+  >
+    <label
+      class="css-14pxzl7"
+    >
+      test
+    </label>
+    <button
+      aria-controls=":r5:"
+      aria-expanded="false"
+      class="base-Select-root css-12xgkxt"
+      role="combobox"
+      type="button"
+    >
+      Story
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="UnfoldMoreRoundedIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+        />
+      </svg>
+    </button>
+    <input
+      aria-hidden="true"
+      style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+      tabindex="-1"
+      value="Story"
+    />
+  </div>
+</div>
+`;

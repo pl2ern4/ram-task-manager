@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreateTask should Match Snapshot 1`] = `
+<div>
+  <form
+    method="POST"
+  >
+    <div
+      class="MuiFormGroup-root css-1nnfls1-MuiFormGroup-root"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary css-1e7wo54-MuiInputBase-root-MuiInput-root"
+        required=""
+      >
+        <input
+          aria-describedby="my-helper-text"
+          class="MuiInputBase-input MuiInput-input css-1x51dt5-MuiInputBase-input-MuiInput-input"
+          id="title"
+          name="title"
+          placeholder="Title"
+          required=""
+          type="text"
+          value=""
+        />
+      </div>
+      <div>
+        <label>
+          <h3>
+            Description
+             :
+          </h3>
+        </label>
+        <div />
+      </div>
+      <div
+        class="css-1dw64bn"
+      >
+        <label
+          class="css-14pxzl7"
+        >
+          status
+        </label>
+        <button
+          aria-controls=":r0:"
+          aria-expanded="false"
+          class="base-Select-root css-12xgkxt"
+          role="combobox"
+          type="button"
+        >
+          Todo
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="UnfoldMoreRoundedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+            />
+          </svg>
+        </button>
+        <input
+          aria-hidden="true"
+          name="status"
+          style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+          tabindex="-1"
+          value="Todo"
+        />
+      </div>
+      <div
+        class="css-1dw64bn"
+      >
+        <label
+          class="css-14pxzl7"
+        >
+          Asignee
+        </label>
+        <button
+          aria-controls=":r1:"
+          aria-expanded="false"
+          class="base-Select-root css-12xgkxt"
+          role="combobox"
+          type="button"
+        >
+          Not Assigned
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="UnfoldMoreRoundedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+            />
+          </svg>
+        </button>
+        <input
+          aria-hidden="true"
+          name="asignee"
+          style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+          tabindex="-1"
+          value="Not Assigned"
+        />
+      </div>
+      <div
+        class="css-1dw64bn"
+      >
+        <label
+          class="css-14pxzl7"
+        >
+          Reportee
+        </label>
+        <button
+          aria-controls=":r2:"
+          aria-expanded="false"
+          class="base-Select-root css-12xgkxt"
+          role="combobox"
+          type="button"
+        >
+          Not Assigned
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="UnfoldMoreRoundedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+            />
+          </svg>
+        </button>
+        <input
+          aria-hidden="true"
+          name="reportee"
+          style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+          tabindex="-1"
+          value="Not Assigned"
+        />
+      </div>
+      <div
+        class="css-1dw64bn"
+      >
+        <label
+          class="css-14pxzl7"
+        >
+          Task Type
+        </label>
+        <button
+          aria-controls=":r3:"
+          aria-expanded="false"
+          class="base-Select-root css-12xgkxt"
+          role="combobox"
+          type="button"
+        >
+          Not Assigned
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="UnfoldMoreRoundedIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="m12 5.83 2.46 2.46c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 3.7a.9959.9959 0 0 0-1.41 0L8.12 6.88c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0zm0 12.34-2.46-2.46a.9959.9959 0 0 0-1.41 0c-.39.39-.39 1.02 0 1.41l3.17 3.18c.39.39 1.02.39 1.41 0l3.17-3.17c.39-.39.39-1.02 0-1.41a.9959.9959 0 0 0-1.41 0z"
+            />
+          </svg>
+        </button>
+        <input
+          aria-hidden="true"
+          name="taskType"
+          style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
+          tabindex="-1"
+          value="Not Assigned"
+        />
+      </div>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary css-1e7wo54-MuiInputBase-root-MuiInput-root"
+      >
+        <input
+          aria-describedby="my-helper-text"
+          class="MuiInputBase-input MuiInput-input css-1x51dt5-MuiInputBase-input-MuiInput-input"
+          id="storyPoint"
+          name="storyPoint"
+          placeholder="Story Point"
+          type="number"
+          value=""
+        />
+      </div>
+      <div
+        class="css-1kq4js9"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-sghohy-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="submit"
+        >
+          Create Ticket
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          Cancel
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </form>
+</div>
+`;
