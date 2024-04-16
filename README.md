@@ -1,40 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Start Project locally
+    yarn dev
 
-## Getting Started
+### Run Unit test
+    yarn test
 
-First, run the development server:
+### Production URL
+ Application can be tested on https://ram-task-manager.vercel.app/board/test
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### About Application
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+ - All the data will stored in local storage
+ - User can create Board
+ - After Creating Board, User will redirect to Board page
+ - On Board Page User can create, delete, update Ticket.
+ - Sorting can be done on basis of Task Creation Date, Modification Date, Bookmark & title of the task
+ - User Can copy paste image, upload image on editor.
+ - User Can comment on ticket with images and text.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### About Application Techstack 
+This application boostrapped on Next.js with Typescript. Unit test are done using JEST & React Testing Libraries.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### What can be done?
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Configuring with Database, we don't need to rely on lcoalstorage and can support application to the user based in different machine & location. Since challenge was related to test UI, Hence backend not configured.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- UI can be modified to look more beautiful.
